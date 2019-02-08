@@ -1,0 +1,4 @@
+# robots.txt for https://lblh.github.io
+
+User-agent: *
+Allow: *
